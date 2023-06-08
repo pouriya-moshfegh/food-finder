@@ -37,7 +37,6 @@ This project was built using the following technologies:
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create a pull request or open an issue.
 
-## 📞
 
 For any inquiries or feedback, please contact us at [pouriya.moshfeghsamie@gmail.com](mailto:pouriya.moshfeghsamie@gmail.com).
 
