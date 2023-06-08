@@ -1,5 +1,8 @@
 ## 🚀 Getting Started
 
+link of the project:
+https://food-finder-cyan.vercel.app/
+
 To get started with this project, simply clone the repository and install the required dependencies:
 
 git clone github.com/pouriya-moshfegh/food-finder
