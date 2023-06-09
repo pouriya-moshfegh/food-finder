@@ -35,8 +35,8 @@ export default function Home() {
             <div className="bg-white w-[70%] rounded p-3 shadow">
               {/* RESAURANT NAVBAR */}
               <nav className="flex text-reg border-b pb-2">
-                <a href="" className="mr-7"> Overview </a>
-                <a href="" className="mr-7"> Menu </a>
+                <Link href="restaurant/milestones-grill" className="mr-7"> Overview </Link>
+                <Link href="restaurant/milestones-grill/menu"  className="mr-7"> Menu </Link>
               </nav>
               {/* RESAURANT NAVBAR */} {/* TITLE */}
               <div className="mt-4 border-b pb-6">
