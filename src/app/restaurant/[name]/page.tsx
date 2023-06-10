@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <main className="bg-gray-100 min-h-screen w-screen">
       <main className="max-w-screen-2xl m-auto bg-white">
-        {/* NAVBAR */}
-        <NavBar></NavBar>
-        {/* NAVBAR */} 
-        <Header></Header>
+
+        <NavBar/>
+
+        <Header/>
         
          {/* DESCRIPTION PORTION */}
         <div className="flex m-auto w-2/3 justify-between items-start 0 -mt-11">
